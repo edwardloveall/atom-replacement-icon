@@ -23,4 +23,5 @@ The follow might also help:
 
 * [Blender](http://www.blender.org)
 * Photoshop
-* Icon Composer
+* [Slicy](http://macrabbit.com/slicy/)
+* [Icon Slate](http://www.kodlian.com/apps/icon-slate)
