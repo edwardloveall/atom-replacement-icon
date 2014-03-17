@@ -1,6 +1,6 @@
 # Atom Replacement Icon
 
-![](http://cl.ly/image/0L0J1A0z433v/screenshot.png)
+![](https://rawgithub.com/edwardloveall/atom-replacement-icon/master/screenshot.png)
 
 ## Installation
 
@@ -10,13 +10,15 @@
 * Drag `atom.icns` onto it's icon at the top left of the info window.
 * Enjoy!
 
-The follow might also help:
+The following might also help:
 
 * Go to `Atom.app`
 * Right click > *Show Package Contents*
 * Navigate to `Contents/Resources`
 * Remove `atom.icns`. You can either delete it or move it (hold Command while dragging)
 * Copy `atom.icns` from this folder into `Resources`
+
+You can also drag `file.icns` into the Resources folder although I haven't been able to get this to work.
 
 
 ### Made with
