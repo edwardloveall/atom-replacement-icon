@@ -2,24 +2,31 @@
 
 ![](https://rawgithub.com/edwardloveall/atom-replacement-icon/master/screenshot.png)
 
-## Installation
+## Install (Mac only)
+
+This icon comes with an install shell script. To use it:
 
 * Quit Atom
-* Go to `Atom.app`
-* *Get Info* on `Atom.app`
-* Drag `atom.icns` onto it's icon at the top left of the info window.
-* Enjoy!
+* Run the following script in your shell:
 
-The following might also help:
+```shell
+$ path/to/install.sh
+```
 
-* Go to `Atom.app`
-* Right click > *Show Package Contents*
-* Navigate to `Contents/Resources`
-* Remove `atom.icns`. You can either delete it or move it (hold Command while dragging)
-* Copy `atom.icns` from this folder into `Resources`
+* Launch Atom
 
-You can also drag `file.icns` into the Resources folder although I haven't been able to get this to work.
+## Uninstall (Mac only)
 
+This icon also comes with an uninstall script. To use it:
+
+* Quit Atom
+* Run the following script in your shell:
+
+```shell
+$ path/to/uninstall.sh
+```
+
+* Launch Atom
 
 ### Made with
 
