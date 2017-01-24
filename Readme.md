@@ -2,7 +2,7 @@
 
 ![](https://rawgithub.com/edwardloveall/atom-replacement-icon/master/screenshot.png)
 
-## Install (Mac only)
+## Install on macOS
 
 This icon comes with an install shell script. To use it:
 
@@ -15,7 +15,11 @@ $ path/to/install.sh
 
 * Launch Atom
 
-## Uninstall (Mac only)
+## Install on Windows
+
+Follow [this guide](http://www.howtogeek.com/75983/stupid-geek-tricks-how-to-modify-the-icon-of-an-.exe-file)
+
+## Uninstall on macOS
 
 This icon also comes with an uninstall script. To use it:
 
